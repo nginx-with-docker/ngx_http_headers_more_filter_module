@@ -36,4 +36,4 @@ ngx_headers_more - Set and clear input and output headers...more than "add"!
 
 ## TODO
 
-- try merge changes: https://github.com/openresty/encrypted-session-nginx-module/pulls
+- try merge changes: https://github.com/openresty/headers-more-nginx-module/pulls
