@@ -24,7 +24,7 @@ ngx_headers_more - Set and clear input and output headers...more than "add"!
             </ul></td>
         </tr>
         <tr>
-            <td>0.08</td>
+            <td>1.21.0</td>
             <td>0.33 (2017.11)</td>
             <td><ul>
                 <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-headers-more-0.33</li>

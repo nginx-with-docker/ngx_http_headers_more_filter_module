@@ -6,7 +6,6 @@ ARG MODULE_VERSION=0.33
 ARG MODULE_NAME=headers-more-nginx-module-src
 ARG MODULE_SOURCE=https://github.com/nginx-with-docker/headers-more-nginx-module-src
 
-
 RUN cd /usr/src && \
     curl -L "${MODULE_SOURCE}/archive/refs/tags/v${MODULE_VERSION}.tar.gz" -o "${MODULE_VERSION}.tar.gz" && \
     echo "${MODULE_CHECKSUM}  ${MODULE_VERSION}.tar.gz" | shasum -c && \
