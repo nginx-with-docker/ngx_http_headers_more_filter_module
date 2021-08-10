@@ -16,6 +16,22 @@ ngx_headers_more - Set and clear input and output headers...more than "add"!
     </thead>
     <tbody>
         <tr>
+            <td>1.21.1</td>
+            <td>master (2020.10)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-headers-more-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-headers-more-master-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
+            <td>1.21.1</td>
+            <td>0.33 (2017.11)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-headers-more-0.33</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-headers-more-0.33-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
             <td>1.21.0</td>
             <td>master (2020.10)</td>
             <td><ul>
